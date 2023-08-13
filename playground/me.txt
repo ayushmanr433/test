@@ -1,7 +1,0 @@
-Name: Ayushman Kumar
-Skills: HTML, CSS, JS, React.js,C,DSA
-Email: ayushmanr12@gmail.com
-phone no=+7463859379
-Cv link-https://internshala.com/student/resume?detail_source=resume_direct
-collage-Techno main salt lake
-branch-Computer science and engineering(3rd year)
